@@ -8,36 +8,17 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**◈ Class** → Computer Science Student  
-**◈ Focus** → Software Dev / Data Analysis / HCI  
-**◈ Origin** → Saudi Arabia 🇸🇦  
-**◈ University** → PNU - CCIS
-
-</td>
-<td width="50%" align="center">
-
-<img src="YOUR_IMAGE_URL_HERE" width="250"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### About Me
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me" />
 
 - 🚀 I'm currently improving my skills in ** Python, and OpenGL**
 - 💡 I build projects in software development, game design, and **iOS app development**
 - 📊 Learning **Python data analysis libraries** (Pandas, NumPy, etc..)
 - 📫 How to reach me: **DeenaAljeraiwi4@gmail.com**
 
+
 <br>
 
-### Technologies
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Technologies&repeat=false" alt="Technologies" />
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -52,7 +33,7 @@
 
 <br>
 
-### Featured Projects
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Featured+Projects&repeat=false" alt="Featured Projects" />
 
 - 🎟️ **[Event Ticket Booking System](repo-link-here)** — Java + Oracle DB, role-based dashboards
 - 🎮 **[Project name](repo-link)** — Unity game project
