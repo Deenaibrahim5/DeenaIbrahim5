@@ -14,6 +14,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me" />
 
@@ -39,6 +40,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Featured+Projects&repeat=false" alt="Featured Projects" />
@@ -46,3 +48,10 @@
 - 🎟️ **[Event Ticket Booking System](repo-link-here)** — Java + Oracle DB, role-based dashboards
 - 🎮 **[Project name](repo-link)** — Unity game project
 - 📱 **[Project name](repo-link)** — SwiftUI iOS app
+
+<br>
+<br>
+<br>
+<br>
+
+  ![Snake Animation](https://raw.githubusercontent.com/Deenaibrahim5/Deenaibrahim5/output/github-snake-dark.svg)
