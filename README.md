@@ -14,14 +14,12 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me:" />
 
 <br>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=550&height=30&lines=Improving+my+skills+in+Python+and+OpenGL&repeat=false" alt="line1" />
-<br>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=550&height=30&lines=I+build+projects+in+software+dev%2C+game+design%2C+and+iOS&repeat=false" alt="line2" />
-<br>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=550&height=30&lines=Learning+Python+data+analysis+libraries&repeat=false" alt="line3" />
-<br>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=10&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=550&height=30&lines=Reach+me%3A+DeenaAljeraiwi4%40gmail.com&repeat=false" alt="line4" />
-
+```
+-I'm currently improving my skills in Python and OpenGL
+-I build projects in software dev, game design, and iOS
+-Learning Python data analysis libraries (Pandas, NumPy)
+-Reach me: DeenaAljeraiwi4@gmail.com
+​```
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Technologies&repeat=false" alt="Technologies:" />
