@@ -14,12 +14,12 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me:" />
 
 <br>
-```
--I'm currently improving my skills in Python and OpenGL
--I build projects in software dev, game design, and iOS
--Learning Python data analysis libraries (Pandas, NumPy)
--Reach me: DeenaAljeraiwi4@gmail.com
-​```
+
+- ✧ I'm currently improving my skills in ML and OpenGL
+- ✧ I build projects in software dev, game design, and iOS
+- ✧ Learning: Python / data analysis/ libraries (Pandas, NumPy)
+- ✧ Reach me: **DeenaAljeraiwi4@gmail.com**
+​
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Technologies&repeat=false" alt="Technologies:" />
