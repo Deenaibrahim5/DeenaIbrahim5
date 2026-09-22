@@ -1,3 +1,4 @@
+<br>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Deena+Aljeraiwi" alt="Typing SVG" />
@@ -8,24 +9,21 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me" />
 
-- 🚀 I'm currently improving my skills in ** Python, and OpenGL**
-- 💡 I build projects in software development, game design, and **iOS app development**
-- 📊 Learning **Python data analysis libraries** (Pandas, NumPy, etc..)
-- 📫 How to reach me: **DeenaAljeraiwi4@gmail.com**
-
-
 <br>
-<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=650&height=35&lines=Improving+my+skills+in+Python+and+OpenGL&repeat=false" alt="line1" /><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=650&height=35&lines=I+build+projects+in+software+dev%2C+game+design%2C+and+iOS+dev&repeat=false" alt="line2" /><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=650&height=35&lines=Learning+Python+data+analysis+libraries+%28Pandas%2C+NumPy%29&repeat=false" alt="line3" /><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=1&pause=999999&color=FFFFFF&background=0D1117&center=false&vCenter=true&width=650&height=35&lines=Reach+me%3A+DeenaAljeraiwi4%40gmail.com&repeat=false" alt="line4" />
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Technologies&repeat=false" alt="Technologies" />
 
@@ -40,13 +38,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
 <br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Featured+Projects&repeat=false" alt="Featured Projects" />
-
-- 🎟️ **[Event Ticket Booking System](repo-link-here)** — Java + Oracle DB, role-based dashboards
-- 🎮 **[Project name](repo-link)** — Unity game project
-- 📱 **[Project name](repo-link)** — SwiftUI iOS app
-
-
