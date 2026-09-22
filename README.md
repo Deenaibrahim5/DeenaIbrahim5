@@ -1,8 +1,10 @@
-<h1 align="center">DEENA</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Deena+Aljeraiwi" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=01001000+01101001;10110101+01001101;01110100+00101101" alt="Binary Typing SVG" />
+
+</div>
 
 <br>
 
@@ -28,13 +30,12 @@
 
 ### About Me
 
-- 🚀 I'm currently improving my skills in **Java, Python, and OpenGL**
+- 🚀 I'm currently improving my skills in ** Python, and OpenGL**
 - 💡 I build projects in software development, game design, and **iOS app development**
 - 📊 Learning **Python data analysis libraries** (Pandas, NumPy, etc..)
-- 📫 How to reach me: **DeenaAljeraiwi@gmail.com**
+- 📫 How to reach me: **DeenaAljeraiwi4@gmail.com**
 
 <br>
-
 
 ### Technologies
 
