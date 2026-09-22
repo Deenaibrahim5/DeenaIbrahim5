@@ -8,6 +8,10 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me" />
 
@@ -17,6 +21,7 @@
 - 📫 How to reach me: **DeenaAljeraiwi4@gmail.com**
 
 
+<br>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=Technologies&repeat=false" alt="Technologies" />
