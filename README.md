@@ -49,9 +49,4 @@
 - 🎮 **[Project name](repo-link)** — Unity game project
 - 📱 **[Project name](repo-link)** — SwiftUI iOS app
 
-<br>
-<br>
-<br>
-<br>
 
-  ![Snake Animation](https://raw.githubusercontent.com/Deenaibrahim5/Deenaibrahim5/output/github-snake-dark.svg)
