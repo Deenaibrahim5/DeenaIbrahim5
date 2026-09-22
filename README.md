@@ -1,6 +1,7 @@
 # Hello, I'm Deena
-CS Stusent
-Interested in Software Development / Data Analysis / Machine Learning 
+CS Student
+Intersted in Software Development / Data Analysis / Machine Learning
+
 ----
 # Skills
 -Python
