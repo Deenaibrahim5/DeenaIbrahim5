@@ -1,9 +1,9 @@
-<br><br>
+<br><br><br>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Deena+Aljeraiwi" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=01001000+01101001;10110101+01001101;01110100+00101101" alt="Binary Typing SVG" />
 
