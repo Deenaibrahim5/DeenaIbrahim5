@@ -8,9 +8,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=01001000+01101001;10110101+01001101;01110100+00101101" alt="Binary Typing SVG" />
 
 </div>
-<hr>
-<br><br><br><br><br><br>
 
+<br><br><br><br><br><br>
+<hr>
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&width=400&height=40&lines=About+Me&repeat=false" alt="About Me:" />
 
 
